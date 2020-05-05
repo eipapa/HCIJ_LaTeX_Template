@@ -164,6 +164,12 @@
   \medskip{}
 }
 
+\newcommand{\titlenotesoncontributors}{%
+    \textbf{\large Notes on contributors}
+    \par
+  \medskip{}
+}
+
 \newcommand{\titleeditorminibios}{%
     \textbf{\large Editors' Mini-bios:}
     \par
