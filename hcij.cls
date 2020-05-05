@@ -44,7 +44,7 @@
 \renewcommand{\thesection}{\arabic{section}.}
 \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}.}
 
-\captionsetup{figurename=FIGURE,singlelinecheck=false,labelsep=period}
+\captionsetup{figurename=Figure,singlelinecheck=false,labelsep=period}
 
 \geometry{letterpaper,tmargin=70pt,bmargin=180pt,footskip=30pt}
 
