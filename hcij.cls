@@ -77,7 +77,7 @@
 
 \newcommand\articlebodystyle{
     \titleformat{\section}
-    {\normalfont\Large\bfseries\uppercase}{\thesection}{1em}{}
+    {\normalfont\Large\bfseries}{\thesection}{1em}{}
     \titleformat{\subsection}
     {\normalfont\large\bfseries}{\thesubsection}{1em}{}
     \titleformat{\subsubsection}
@@ -116,6 +116,13 @@
     \textbf{#1} (#2, #3) #4
     \par
   \medskip{}
+}
+
+\newcommand{\minicontributorbio}[2]{%
+    \setlength{\parindent}{0ex}
+    \textbf{\emph{#1}} #2
+    \par
+    \medskip{}
 }
 
 \newcommand{\runninghead}[1]{%
@@ -170,6 +177,14 @@
   \medskip{}
 }
 
+\newcommand{\titlenotesoncontributors}{%
+    \begin{flushleft}
+    \textbf{\large Notes on contributors}
+    \par
+    \end{flashleft}
+  \medskip{}
+}
+
 \newcommand{\titlebackground}[1]{%
     \textbf{\emph{Background.}} #1
     \par
@@ -177,6 +192,7 @@
 }
 
 \newcommand{\titleacknowledgments}[1]{%
+    \newline
     \textbf{\emph{Acknowledgements.}} #1
     \par
   \medskip{}
@@ -234,3 +250,8 @@
 \phantomsection\addcontentsline{toc}{subsubsection}{\numberline{#1}}
 \noindent#1\par\endgroup}
 
+\newcommand{\researchquestion}[1]{%
+    \vspace{2.5mm} %2.5mm vertical space
+    \textbf{#1}
+    \par
+}
