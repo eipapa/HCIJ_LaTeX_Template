@@ -12,4 +12,4 @@ Pe-Than, E.P.P, Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D
 - Format in-text citations and references in APA 7th style
 
 ## Credit
-Thanks to the original creator of this package, Scott Carter.
+Thanks to the original creator of HCI journal template, Scott Carter.
