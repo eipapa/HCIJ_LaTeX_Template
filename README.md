@@ -10,3 +10,5 @@ Pe-Than, E.P.P, Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D
 ## Todo
 - Add new head level
 - Format in-text citations and references in APA 7th style
+
+## Thanks to the original creator of HCI Journal template, Scott Carter.
