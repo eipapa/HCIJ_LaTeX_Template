@@ -12,5 +12,4 @@ Pe-Than, E.P.P, Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D
 - Format in-text citations and references in APA 7th style
 - Apply HCI Journal style
 
-## Credit
-Thanks to the original creator of HCI journal template, Scott Carter.
+This HCIJ LaTeX template is adapted from [madpickle/HCIJ_LaTeX_Template] (https://github.com/madpickle/HCIJ_LaTeX_Template).
