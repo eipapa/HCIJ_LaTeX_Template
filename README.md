@@ -6,6 +6,6 @@ Pe-Than, E.P.P, Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D
 
 ## Todo
 - Apply HCI Journal style
-- Apply APA 7th citation and referencing style
+- Apply APA 7th citation and referencing format and style
 
 This HCIJ LaTeX template is adapted from [madpickle/HCIJ_LaTeX_Template](https://github.com/madpickle/HCIJ_LaTeX_Template).
