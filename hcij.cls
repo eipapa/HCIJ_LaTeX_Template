@@ -43,6 +43,7 @@
 \renewcommand{\cftsecfont}{\scshape}
 \renewcommand{\thesection}{\arabic{section}.}
 \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}.}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}.}
 
 \captionsetup{figurename=Figure,singlelinecheck=false,labelsep=period}
 
@@ -81,6 +82,8 @@
     \titleformat{\subsection}
     {\normalfont\large\bfseries}{\thesubsection}{1em}{}
     \titleformat{\subsubsection}
+    {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+    \titleformat{\subsubsubsection}
     {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
     \titleformat{\paragraph}
     {\normalfont\normalsize\itshape}{\theparagraph}{1em}{}
@@ -223,6 +226,10 @@
 \newcommand\subsubsectionnonum[1]{%
   \subsubsection*{#1}%
   \phantomsection\addcontentsline{toc}{subsubsection}{#1}}
+  
+%\newcommand\subsubsubsectionnonum[1]{%
+%  \subsubsubsection*{#1}%
+%  \phantomsection\addcontentsline{toc}{subsubsubsection}{#1}}
   
 \newcommand\sectionnonum[1]{%
   \section*{#1}%
