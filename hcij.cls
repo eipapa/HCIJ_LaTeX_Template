@@ -28,7 +28,7 @@
 \RequirePackage{titlesec}
 \RequirePackage[font=bf]{caption}
 \RequirePackage{titlesec}
-\RequirePackage{apacite}
+%\RequirePackage{apacite}
 \RequirePackage{tocloft}
 \RequirePackage{booktabs}
 \RequirePackage{float}
@@ -179,9 +179,9 @@
 
 \newcommand{\titlenotesoncontributors}{%
     \begin{flushleft}
-    \textbf{\large Notes on contributors}
+    \textbf{\Large Notes on contributors}
     \par
-    \end{flashleft}
+    \end{flushleft}
   \medskip{}
 }
 
@@ -192,7 +192,6 @@
 }
 
 \newcommand{\titleacknowledgments}[1]{%
-    \newline
     \textbf{\emph{Acknowledgements.}} #1
     \par
   \medskip{}
