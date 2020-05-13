@@ -1,4 +1,4 @@
-This repo contains the paper titled <b>Corporate Hackathons, How and Why? A Multiple Case Study of Motivation, Projects Proposal and Selection, Goal Setting, Coordination, and Outcomes</b> in LaTeX format, that was published in Human-Computer Interaction Journal by Taylor & Francis.
+This repo contains the paper titled <b>Corporate Hackathons, How and Why? A Multiple Case Study of Motivation, Projects Proposal and Selection, Goal Setting, Coordination, and Outcomes</b> in TaX and PDF, that was published in Human-Computer Interaction Journal by Taylor & Francis.
 
 
 ## APA citation format
