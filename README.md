@@ -8,8 +8,8 @@ Pe-Than, E.P.P, Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D
 - [Started] Playing around with page style in LaTeX: Apply HCI Journal style sheet
   - Extract style from HCI journal typesetted paper
   - Apply style to the current .tex
-- [Mostly done] Apply APA 7th style sheet
 - [Halfway done] Constructing .bib
+- [Mostly done] Apply APA 7th style sheet
 
 
 This HCIJ LaTeX template is adapted from [madpickle/HCIJ_LaTeX_Template](https://github.com/madpickle/HCIJ_LaTeX_Template).
